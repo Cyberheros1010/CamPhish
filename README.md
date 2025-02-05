@@ -35,10 +35,6 @@ bash camphish.sh
   <li>Add support for Apple sillicon (M1/M2/M3 ARM64)</li>
   <li>Add support for arm64 like Raspberry Pi</li>
 </ul>
-<p><b>Version: 1.6:</b> Fix ngrok direct link generate</p>
-<p><b>Version: 1.5:</b> Add new online meeting template</p>
-<p><b>Version: 1.4:</b> Ngrok authtoken update</p>
-<p><b>Version: 1.3:</b> Fix ngrok direct link</p>
 
 #### For More Video subcribe <a href="http://youtube.com/@CywerLearning">CywerLearning YouTube Channel</a>
 <p>CamPhish is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
